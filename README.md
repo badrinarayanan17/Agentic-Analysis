@@ -1,5 +1,4 @@
-# Multi-Agent System for Real-Time Data Analysis on Reddit
-## Work Done By - BadriNarayanan S
+# Multi-Agent System for Real-Time Data Analysis
 
 ## Overview
 
@@ -91,18 +90,26 @@ To install the required dependencies, use the following commands:
 1. **Clone the repository:**
 
    git clone https://github.com/badrinarayanan17/Agentic-Analysis
+
    cd Agentic-Analysis
 
 2. **Set up environment variables in a .env file**
 
    GOOGLE_API_KEY=your_google_api_key
+
    GROQ_API_KEY=your_groq_api_key
+
    SERPER_API_KEY=your_serper_api_key
 
 3. **Run the System**
     
    python crew.py
 
+4. **View the Output**
+
+   The system will produce an evaluation report for the specified topic (e.g., Olympics 2024) using the selected LLM models. The report will include performance metrics such as accuracy, precision, recall, F1   
+   score, and others.
+   
 ## Results
 
 The following metrics were used to evaluate the performance of the LLM models
@@ -116,14 +123,18 @@ The following metrics were used to evaluate the performance of the LLM models
 
 ## Example Results (Llama3.1-70b-versatile):
 
-  ![LLM Results](https://github.com/user-attachments/assets/40e7b9e4-3498-4235-876e-dca88c8d282a)
+  ![LLM Results](https://github.com/user-attachments/assets/dad1b7a5-6859-48f8-ad98-a830e3f902fa)
+
 
 ## Conclusion
 
-  This Multi-Agent System effectively automates the real-time data analysis workflow on Reddit, demonstrating the power of agentic approaches in AI. The Llama3.1-70b-versatile model showed the best overall performance, making it particularly suitable for sentiment analysis tasks.
+  This Multi-Agent System effectively automates the real-time data analysis workflow on Reddit, demonstrating the power of agentic approaches in AI. The Llama3.1-70b-versatile model showed the best overall   
+  performance, making it particularly suitable for sentiment analysis tasks.
 
 ## Acknowledgement
 
   CrewAI Framework: For providing the tools necessary to build this MAS.
+
   Groq Cloud: For the LLM models used in this project.
+
   Serper Dev Tools: For real-time data collection capabilities.
