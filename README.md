@@ -77,13 +77,13 @@ The LLM models evaluated in this project include:
 
 ## Installation
 
-To install the required dependencies, use the following commands:
+To install the required dependencies, use the following command:
 
-  pip install crewai
-  pip install langchain_google_genai
-  pip install py-dotenv
-  pip install crewai_tools
-  pip install langchain_groq
+   pip install crewai langchain_google_genai py-dotenv crewai_tools langchain_groq
+
+## Python Dependency
+
+   To execute crewAI, you need to have python version more than 3.9. 3.10 or greater is recommendable.
 
 ## Usage
 
