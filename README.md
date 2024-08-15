@@ -114,9 +114,9 @@ To install the required dependencies, use the following command:
 
 The following metrics were used to evaluate the performance of the LLM models
 
-  Sentiment Analysis Accuracy, Precision, Recall, F1 Score, Perplexity, ROCAUC
+  - Sentiment Analysis Accuracy, Precision, Recall, F1 Score, Perplexity, ROCAUC
 
-### Llama3.1-70b-versatile
+### Llama3.1-70b-versatile LLM Model
 
   | Metric                      | Value  |
   |-----------------------------|--------|
