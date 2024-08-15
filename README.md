@@ -13,7 +13,7 @@ This repository showcases a Multi-Agent System (MAS) designed to automate real-t
 - [Usage](#usage)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgement](#acknowledegment)
 
 ## Introduction
 
