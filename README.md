@@ -79,11 +79,11 @@ The LLM models evaluated in this project include:
 
 To install the required dependencies, use the following command:
 
-   pip install crewai langchain_google_genai py-dotenv crewai_tools langchain_groq
+   - pip install crewai langchain_google_genai py-dotenv crewai_tools langchain_groq
 
 ## Python Dependency
 
-   To execute crewAI, you need to have python version more than 3.9. 3.10 or greater is recommendable.
+   - To execute crewAI, you need to have python version more than 3.9. 3.10 or greater is recommendable.
 
 ## Usage
 
@@ -114,17 +114,11 @@ To install the required dependencies, use the following command:
 
 The following metrics were used to evaluate the performance of the LLM models
 
-  Sentiment Analysis Accuracy
-  Precision
-  Recall
-  F1 Score
-  Perplexity
-  ROCAUC
+  Sentiment Analysis Accuracy, Precision, Recall, F1 Score, Perplexity, ROCAUC
 
 ## Example Results (Llama3.1-70b-versatile):
 
   ![LLM Results](https://github.com/user-attachments/assets/dad1b7a5-6859-48f8-ad98-a830e3f902fa)
-
 
 ## Conclusion
 
