@@ -8,9 +8,6 @@ This repository showcases a Multi-Agent System (MAS) designed to automate real-t
 
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-  - [Agents](#agents)
-  - [Tasks](#tasks)
-  - [Tools](#tools)
 - [Model Evaluation](#model-evaluation)
 - [Installation](#installation)
 - [Usage](#usage)
