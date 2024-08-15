@@ -1,0 +1,6 @@
+# These files will be ignored
+
+agents_venv/
+.env
+__pycache__
+

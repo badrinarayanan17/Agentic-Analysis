@@ -1,0 +1,6 @@
+crewai # For MAS
+langchain_google_genai # For collaborating with google
+py-dotenv # For detecting environment
+crewai_tools # For real world interaction
+langchain_groq # Inference Engine
+langchain # Framework to develop llm powered applications
