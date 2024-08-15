@@ -116,9 +116,15 @@ The following metrics were used to evaluate the performance of the LLM models
 
   Sentiment Analysis Accuracy, Precision, Recall, F1 Score, Perplexity, ROCAUC
 
-## Example Results (Llama3.1-70b-versatile):
+### Llama3.1-70b-versatile
 
-  ![LLM Results](https://github.com/user-attachments/assets/dad1b7a5-6859-48f8-ad98-a830e3f902fa)
+  | Metric                      | Value  |
+  |-----------------------------|--------|
+  | Sentiment Analysis Accuracy | 92.1% |
+  | Precision                   | 0.91   |
+  | Recall                      | 0.93   |
+  | F1 Score                    | 0.92   |
+  | Perplexity                  | 12.5   |
 
 ## Conclusion
 
